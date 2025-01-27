@@ -31,7 +31,7 @@
         <mxCell id="Gfsgdq62A619LnqNkO2T-10" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gfsgdq62A619LnqNkO2T-11" value="Seção Beginner Noob" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gfsgdq62A619LnqNkO2T-11" value="Section 1 - Beginner Noob" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gfsgdq62A619LnqNkO2T-12" value="Seção Beginner Advanced" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -53,96 +53,120 @@
           <mxGeometry x="450" y="710" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4KOO3dZwNGag5lvCZrAG-1" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=#2D9C5E;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" vertex="1" parent="1">
-          <mxGeometry x="245" y="10" width="50" height="40" as="geometry" />
+          <mxGeometry x="75" y="100" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4KOO3dZwNGag5lvCZrAG-3" value="ExerciseSet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4KOO3dZwNGag5lvCZrAG-4" value="ExerciseSet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nsAMFgYsL0ogdNJyN3VD-1" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=#2D9C5E;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" vertex="1" parent="1">
+          <mxGeometry x="165" y="140" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="F9HO2_hfYCDO8nH5dcpf" name="Exercise">
-    <mxGraphModel dx="896" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="F9HO2_hfYCDO8nH5dcpf" name="ExerciseSet">
+    <mxGraphModel dx="1136" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="60" width="820" height="340" as="geometry" />
+        <mxCell id="8vpqSMfb9k6cGN8gbRhY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="10" width="950" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-2" value="Exercise 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" width="220" height="60" as="geometry" />
+        <mxCell id="0H9In8_0_BmluhhsLU83-1" value="&lt;b&gt;Exercise 1&lt;/b&gt;&lt;div&gt;- pergunta&lt;/div&gt;&lt;div&gt;- opções de resposta&lt;/div&gt;&lt;div&gt;- resposta correta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="170" height="370" as="geometry" />
         </mxCell>
         <mxCell id="3POBYDi-XHk4QKIxyxoT-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="100" width="140" height="240" as="geometry" />
+          <mxGeometry x="35" y="210" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="3POBYDi-XHk4QKIxyxoT-4" value="area de pergunta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="45" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3POBYDi-XHk4QKIxyxoT-5" value="opções de resposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="45" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3POBYDi-XHk4QKIxyxoT-8" value="Next" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="94" y="294" width="70" height="40" as="geometry" />
+          <mxGeometry x="100" y="410" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="100" width="140" height="240" as="geometry" />
+        <mxCell id="3POBYDi-XHk4QKIxyxoT-25" value="ExerciseAnswer 1&lt;div&gt;user_id&lt;/div&gt;&lt;div&gt;exercise_id&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="185" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-10" value="area de pergunta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="8vpqSMfb9k6cGN8gbRhY-6" value="ExerciseSet 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-11" value="opções de resposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-1" value="&lt;b&gt;Exercise 2&lt;/b&gt;&lt;div&gt;- pergunta&lt;/div&gt;&lt;div&gt;- opções de resposta&lt;/div&gt;&lt;div&gt;- resposta correta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="170" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-12" value="Next" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="254" y="294" width="70" height="40" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="210" width="140" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="140" height="240" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-3" value="area de pergunta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-14" value="area de pergunta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-4" value="opções de resposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-15" value="opções de resposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-5" value="Next" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-16" value="Next" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="294" width="70" height="40" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-6" value="ExerciseAnswer 2&lt;div&gt;user_id&lt;/div&gt;&lt;div&gt;exercise_id&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="185" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="100" width="140" height="240" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-7" value="&lt;b&gt;Exercise 3&lt;/b&gt;&lt;div&gt;- pergunta&amp;nbsp;&lt;/div&gt;&lt;div&gt;- opções de resposta&lt;/div&gt;&lt;div&gt;- resposta correta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="90" width="170" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-18" value="area de pergunta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="210" width="140" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-19" value="opções de resposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-9" value="area de pergunta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-20" value="Next" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="574" y="294" width="70" height="40" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-10" value="opções de resposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="100" width="140" height="240" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-11" value="Next" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-22" value="area de pergunta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-12" value="ExerciseAnswer 3&lt;div&gt;user_id&lt;/div&gt;&lt;div&gt;exercise_id&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="185" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-23" value="opções de resposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-13" value="&lt;b&gt;Exercise 4&lt;/b&gt;&lt;div&gt;- pergunta&lt;/div&gt;&lt;div&gt;- opções de resposta&lt;/div&gt;&lt;div&gt;- resposta correta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="580" y="90" width="170" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-24" value="Next" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="734" y="294" width="70" height="40" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="210" width="140" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-25" value="Challenge A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="70" width="130" height="30" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-15" value="area de pergunta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-26" value="Challenge B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="70" width="130" height="30" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-16" value="opções de resposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-27" value="Challenge C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="70" width="130" height="30" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-17" value="Next" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-28" value="Challenge D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="70" width="130" height="30" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-18" value="ExerciseAnswer 4&lt;div&gt;user_id&lt;/div&gt;&lt;div&gt;exercise_id&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="185" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3POBYDi-XHk4QKIxyxoT-29" value="Challenge E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="675" y="70" width="130" height="30" as="geometry" />
+        <mxCell id="osBqsxeBRF9kWuit3oGG-19" value="&lt;b&gt;Exercise 5&lt;/b&gt;&lt;div&gt;- pergunta&lt;/div&gt;&lt;div&gt;- opções de resposta&lt;/div&gt;&lt;div&gt;- resposta correta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="760" y="90" width="170" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="osBqsxeBRF9kWuit3oGG-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="208" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="osBqsxeBRF9kWuit3oGG-21" value="area de pergunta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="243" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="osBqsxeBRF9kWuit3oGG-22" value="opções de resposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="308" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="osBqsxeBRF9kWuit3oGG-23" value="Next" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="408" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="osBqsxeBRF9kWuit3oGG-24" value="ExerciseAnswer 5&lt;div&gt;user_id&lt;/div&gt;&lt;div&gt;exercise_id&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="183" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
